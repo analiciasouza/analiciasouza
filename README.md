@@ -1,7 +1,9 @@
 ### Olá, eu sou a Ana!
 
 
-- 🌱 estudando desenvolvimento web 
+- Futura programadora 
 - Pronouns: ela/dela
+- Ciência da Computação 2/8
+- 
 
 
