@@ -2,7 +2,7 @@
 
 - Developer
 - Pronouns: she/her (ela/dela)
-- Computer Science 3/9 - Unit, AL
+- Computer Science 4/9 - Unit, AL
 
 ## Technologys 
 <div style="display: inline_block"><br>
