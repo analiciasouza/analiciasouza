@@ -1,6 +1,5 @@
 ### Hello, I'm Ana!
 
-- Developer
 - Pronouns: she/her (ela/dela)
 - Computer Science 4/9 - Unit, AL
 
