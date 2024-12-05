@@ -1,7 +1,7 @@
 ### Hello, I'm Ana!
 
 - Pronouns: she/her (ela/dela)
-- Computer Science 4/9 - Unit, AL
+- Information Systems 5/8 - Cesmac, AL
 
 ## Technologys 
 <div style="display: inline_block"><br>
