@@ -1,5 +1,6 @@
 ### Hello, I'm Ana!
 
+- Back-end Developer
 - Pronouns: she/her (ela/dela)
 - Information Systems 6/8 - Cesmac, AL
 
