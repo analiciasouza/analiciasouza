@@ -2,7 +2,7 @@
 
 - Back-end Developer
 - Pronouns: she/her (ela/dela)
-- Information Systems 6/8 - Cesmac, AL
+- Information Systems 7/8 - Cesmac, AL
 
 ## Technologys 
 <div style="display: inline_block"><br>
