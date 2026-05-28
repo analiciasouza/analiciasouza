@@ -1,12 +1,12 @@
 ## Olá, eu sou a Ana! 
 
-- 👩‍💻 **Back-end Developer**
-- 📚 **Estudante de Sistemas de Informação** (7/8)
-- 🌎 **Localização:** Maceió, AL
+- **Back-end Developer**
+- **Estudante de Sistemas de Informação** (7/8)
+- **Localização:** Maceió, AL
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
 
@@ -21,7 +21,7 @@ Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
 
 ---
 
-## 🛠 Sobre o que estou trabalhando
+## Sobre o que trabalho
 *   Desenvolvimento de APIs utilizando **Django Rest Framework (DRF)**.
 *   Gerenciamento de bancos de dados relacionais com **PostgreSQL**.
 *   Containerização de aplicações e ambientes de desenvolvimento com **Docker**.
@@ -29,7 +29,7 @@ Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
 
 ---
 
-## 📫 Entre em contato
+## Contato
 
 Fique à vontade para entrar em contato comigo para trocar ideias ou oportunidades!
 
