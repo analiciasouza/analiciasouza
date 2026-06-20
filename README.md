@@ -8,8 +8,6 @@
 
 ## Tecnologias e Ferramentas
 
-Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
-
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png">
@@ -18,16 +16,6 @@ Aqui estão as principais tecnologias com as quais trabalho no meu dia a dia:
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
----
-
-## Sobre o que trabalho
-*   Desenvolvimento de APIs utilizando **Django Rest Framework (DRF)**.
-*   Gerenciamento de bancos de dados relacionais com **PostgreSQL**.
-*   Containerização de aplicações e ambientes de desenvolvimento com **Docker**.
-*   Arquitetura back-end focada em performance e organização.
-
----
 
 ## Contato
 
