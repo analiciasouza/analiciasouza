@@ -1,7 +1,7 @@
 ## Olá, eu sou a Ana! 
 
 - **Back-end Developer**
-- **Estudante de Sistemas de Informação** (7/8)
+- **Estudante de Sistemas de Informação** (8/8)
 - **Localização:** Maceió, AL
 
 ---
